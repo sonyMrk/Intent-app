@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent App</string>
+    <string name="explicit">Explicit</string>
+    <string name="implicit">Implicit</string>
+</resources>
